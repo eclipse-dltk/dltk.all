@@ -1,0 +1,21 @@
+[submodule "org.eclipse.dltk.core"]
+	path = org.eclipse.dltk.core
+	url = ../org.eclipse.dltk.core
+[submodule "org.eclipse.dltk.releng"]
+	path = org.eclipse.dltk.releng
+	url = ../org.eclipse.dltk.releng
+[submodule "org.eclipse.dltk.javascript"]
+	path = org.eclipse.dltk.javascript
+	url = ../org.eclipse.dltk.javascript
+[submodule "org.eclipse.dltk.sh"]
+	path = org.eclipse.dltk.sh
+	url = ../org.eclipse.dltk.sh
+[submodule "org.eclipse.dltk.tcl"]
+	path = org.eclipse.dltk.tcl
+	url = ../org.eclipse.dltk.tcl
+[submodule "org.eclipse.dltk.ruby"]
+	path = org.eclipse.dltk.ruby
+	url = ../org.eclipse.dltk.ruby
+[submodule "org.eclipse.dltk.python"]
+	path = org.eclipse.dltk.python
+	url = ../org.eclipse.dltk.python
